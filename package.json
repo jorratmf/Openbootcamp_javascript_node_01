@@ -1,0 +1,19 @@
+{
+  "name": "tarea01",
+  "version": "1.0.0",
+  "description": "Primer tarea del curso básico de JavaScript de Openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "primer tarea"
+  },
+  "keywords": [
+    "primer",
+    "tarea",
+    "node",
+    "JavaScript",
+    "Openbootcamp"
+  ],
+  "author": "Maria Florencia Jorrat",
+  "license": "MIT"
+}
